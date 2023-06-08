@@ -1,0 +1,1 @@
+https://stackoverflow.com/questions/39734174/c-how-to-write-generic-comparator-function-for-int-double-string-etc-using-t
